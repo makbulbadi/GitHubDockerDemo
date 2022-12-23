@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TF26VJphxgP1mlJmppCK+TnygQUX3MjqkejPu41A46m0iNcaZ4hCKM9h1YKwak5yHeEyKCIvMbbC5zTNSz9sOw==",
+  "success": true,
+  "projectFilePath": "D:\\UMG\\Code\\GitHubDocker\\GitHubDocker\\GitHubDocker\\GitHubDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\makbulb\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
